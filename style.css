@@ -1,0 +1,65 @@
+body{
+
+}
+
+.btn1{
+    background-color:#75bf7a;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 127px;
+height: 37px;
+
+
+}
+.phone{
+    position: absolute;
+    margin-left: 450px;
+    width: 200px !important;
+    height: 320px;
+}
+.Navbar{
+    height: 100px;
+}
+.text{
+    color: white;
+}
+.navoptions{
+align-items: center;
+}
+.nav2{
+    background-color: #75bf7a;
+    border-radius: 10px;
+    text-align: center;
+}
+.email{
+    width: 350px;
+    border: none;
+    border-radius: 6px;
+    height: 45px;
+}
+.tere{
+    color: #75bf7a;
+}
+.icon1{
+ margin-left: 200px;   
+}
+.card1{
+    border: none;
+}
+.cards2{
+    margin-top: -210px;
+}
+.number{
+    color: #75bf7a;
+font-size: 120px;
+}
+.footer{
+    margin-top: 50px;
+}
+.llogo{
+    align-self: center;
+}
+.rights{
+    margin-top: 40px;
+}
